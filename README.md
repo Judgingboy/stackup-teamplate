@@ -3,10 +3,10 @@
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. [Harishankar](https://github.com/Judgingboy)
-2. [Jeevan Jijo George](github.com/Jeevanjijogeorge)
-3. [Avin Madhu](github.com/avin-madhu)
-4. [Aadithya Sai](github.com/AadithyaSai)
-5. [Nadim Naisam](github.com/NadimNaisam)
+2. [Jeevan Jijo George](https://github.com/Jeevanjijogeorge)
+3. [Avin Madhu](https://github.com/avin-madhu)
+4. [Aadithya Sai](https://github.com/AadithyaSai)
+5. [Nadim Naisam](https://github.com/NadimNaisam)
 ## Team Id
 Team id here
 ## Link to product walkthrough
