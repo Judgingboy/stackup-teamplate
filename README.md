@@ -2,7 +2,7 @@
 # Contact Manager
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. [Harishankar](github.com/Judgingboy)
+1. [Harishankar](https://github.com/Judgingboy)
 2. [Jeevan Jijo George](github.com/Jeevanjijogeorge)
 3. [Avin Madhu](github.com/avin-madhu)
 4. [Aadithya Sai](github.com/AadithyaSai)
